@@ -1,0 +1,3 @@
+Model: DistilBERT
+Epochs: 3
+Optimizer: AdamW
